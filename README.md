@@ -1,4 +1,4 @@
-# pyisotools
+# pyisotools CLI Edition
 
 [![Pylint](https://github.com/JoshuaMKW/pyisotools/actions/workflows/python-linter.yml/badge.svg)](https://github.com/JoshuaMKW/pyisotools/actions/workflows/python-linter.yml)
 
